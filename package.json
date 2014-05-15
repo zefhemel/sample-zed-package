@@ -1,0 +1,9 @@
+{
+    "name": "My First Zed Package",
+    "uri": "gh:zefhemel/sample-zed-package",
+    "version": "1.0",
+    "description": "A useful new package",
+    "files": [
+        "command.js"
+    ]
+}

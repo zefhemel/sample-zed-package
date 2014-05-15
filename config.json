@@ -1,0 +1,7 @@
+{
+    commands: {
+        "My Test Command": {
+            scriptUrl: "./command.js"
+        }
+    }
+}
